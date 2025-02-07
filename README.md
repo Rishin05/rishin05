@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Full-Stack Development and Python for Machine Learning.**
 
-- 👨‍💻 All of my projects are available at [https://www.rishin.one](https://www.rishin.one)
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.rishin.one)
 
 - 💬 Ask me about ***React, Next.js, Tailwind CSS, and performance engineering**
 
 - 📫 How to reach me **rishinp26@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o7JhT6gVJdXSaT-aCtfi1olRNDaa7bXW/view?usp=drive_link](https://drive.google.com/file/d/1o7JhT6gVJdXSaT-aCtfi1olRNDaa7bXW/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1o7JhT6gVJdXSaT-aCtfi1olRNDaa7bXW/view?usp=drive_link)
 
 - ⚡ Fun fact **I built a hackathon project called [Sprout](https://www.sprount.tech), which won an award for the Best Use of Google Cloud!**
 
