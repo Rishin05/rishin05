@@ -28,7 +28,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=rishin05&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rishin05&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishin05&show_icons=true&locale=en" alt="rishin05" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishin05&" alt="rishin05" /></p>
 
 
 
