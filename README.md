@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://www.rishin.one)
 
-- 💬 Ask me about ***React, Next.js, Tailwind CSS, and performance engineering**
+- 💬 Ask me about **React, Next.js, Tailwind CSS, and performance engineering**
 
 - 📫 How to reach me **rishinp26@gmail.com**
 
