@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Development and Python for Machine Learning.**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://www.rishin.one)
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.rishin.info)
 
 - 💬 Ask me about **React, Next.js, Tailwind CSS, and performance engineering**
 
